@@ -1,0 +1,199 @@
+body {
+    background-color: #ffffff; 
+    font-family: 'Arial', sans-serif; 
+}
+
+h1 {
+    color: #000000; 
+}
+
+.card {
+    border: none; 
+    border-radius: 10px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+}
+
+.card-title {
+    font-size: 1.5rem; 
+    color: #007bff; 
+}
+
+.card-text {
+    color: #343a40; 
+}
+
+ul {
+    padding-left: 20px; 
+}
+
+ul li {
+    margin-bottom: 5px; 
+}
+
+body.kaja1 {
+    background-image: url('./Kepek/hatter1.jpg');
+    background-size: cover;
+    font-family:'Noto Sans JP', 'Arial Narrow', Arial, sans-serif;
+}
+
+.chicken {
+    background-image: linear-gradient(rgb(236, 159, 159),rgb(201, 41, 41));
+}
+
+.paella {
+    background-image: linear-gradient(rgb(233, 173, 123), white);
+}
+
+.burger {
+    background-image: linear-gradient(green, lightblue, #C2B280);
+}
+
+.usa {
+    background-image: linear-gradient(blue, white, rgb(158, 0, 0));
+}
+
+.Pizza {
+    background-image: linear-gradient(beige, rgb(255, 166, 0));
+}
+
+.Sushi {
+    background-image: linear-gradient(lightpink, white);
+}
+
+.navbar.kaja1 {
+    background-color: lightpink
+}
+
+.navbar.kaja1 .nav-link {
+    color: #000000;
+}
+
+.card-title {
+    background-color: #007BFF; 
+    color: rgb(255, 255, 255);
+}
+
+body.kaja2 {
+    color: white;
+    background-image: url('./Kepek/olasz.png');
+    background-size: cover;
+}
+
+.h12 {
+    color: white;
+}
+
+.navbar.kaja2 {
+    background-color: orange; 
+}
+
+.navbar.kaja2 .nav-link {
+    color: #FFFFFF;
+}
+
+/* Pörkölt stílus */
+body.kaja3 {
+    color: white;
+    background-image: url('./Kepek/usa.jpg');
+    background-size: cover;
+}
+
+.navbar.kaja3 {
+    background-color: rgb(158, 0, 0); 
+}
+
+.navbar.kaja3 .nav-link {
+    color: #FFFFFF;
+}
+
+body.kaja4 {
+    color: white;
+    background-image: url('./Kepek/burger.jpg');
+    background-size: cover;
+}
+
+.navbar.kaja4 {
+    background-color: green; 
+}
+
+.navbar.kaja4 .nav-link {
+    color: #FFFFFF;
+}
+
+body.kaja5 {
+    color: rgb(0, 0, 0);
+    background-image: url('./Kepek/spain.jpg');
+    background-size: cover;
+}
+
+.navbar.kaja5 {
+    background-color: rgb(233, 173, 123); 
+}
+
+.navbar.kaja5 .nav-link {
+    color: #FFFFFF;
+}
+
+body.kaja6 {
+    color: white;
+    background-image: url('./Kepek/kina.jpg');
+    background-size: cover;
+}
+
+.navbar.kaja6 {
+    background-color: rgb(170, 7, 7); 
+}
+
+.navbar.kaja6 .nav-link {
+    color: #FFFFFF;
+}
+
+.border-image {
+    width: 100%;
+    height: auto; 
+    object-fit: cover; 
+    border-radius: 5px; 
+}
+
+.fajta {
+    color:#000000
+}
+
+.loci {
+    color: #000000;
+    font-size: 15.4px;
+}
+
+.usatext {
+    color: white;
+}
+
+.asd {
+    color: white;
+}
+
+.kek {
+    color: blue;
+}
+
+.zold {
+    color: green;
+}
+
+.lila {
+    background-image: linear-gradient(#7332a8, white);
+}
+
+.navasd {
+    background-image: url(./Kepek/lila);
+}
+
+.btn {
+    background-color: #7332a8;
+}
+
+.recept {
+    color: white;
+}
+
+
